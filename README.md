@@ -17,16 +17,16 @@ The system can understand natural language queries and provide relevant response
 
 ##  Features
 
-- ▪️ 24/7 Student Support
-- ▪️ Answer Frequently Asked Questions (FAQs)
-- ▪️ Admission and Eligibility Information
-- ▪️ Examination Schedules and Notifications
-- ▪️ Scholarship Guidance
-- ▪️ Placement and Career Updates
-- ▪️ Course and Department Information
-- ▪️ Multilingual Support (Future Enhancement)
-- ▪️ Feedback Collection for Continuous Improvement
-- ▪️ Responsive Web-Based Interface
+-  24/7 Student Support
+-  Answer Frequently Asked Questions (FAQs)
+-  Admission and Eligibility Information
+-  Examination Schedules and Notifications
+-  Scholarship Guidance
+-  Placement and Career Updates
+-  Course and Department Information
+-  Multilingual Support (Future Enhancement)
+-  Feedback Collection for Continuous Improvement
+-  Responsive Web-Based Interface
 
 ---
 
