@@ -1,13 +1,13 @@
 # AI-Student-Chatbot
 An AI-powered chatbot designed for the Department of Technical Education to provide 24/7 student support for admissions, examinations, scholarships, placements, and academic enquiries using Natural Language Processing and Machine Learning.AI chatbot for student support in the Department of Technical Education using NLP and Machine Learning.
 
-# 🎓 AI-Powered Student Assistance Chatbot for Department of Technical Education
+#  AI-Powered Student Assistance Chatbot for Department of Technical Education
 
 An intelligent virtual assistant designed to assist students by providing instant responses to academic and administrative queries. The chatbot uses Artificial Intelligence (AI) and Natural Language Processing (NLP) to deliver accurate information related to admissions, examinations, scholarships, placements, and other student services.
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 Students often face delays in obtaining information from the institution regarding important academic activities. This chatbot aims to simplify the process by offering 24/7 support through a user-friendly conversational interface.
 
@@ -15,22 +15,22 @@ The system can understand natural language queries and provide relevant response
 
 ---
 
-## 🚀 Features
+##  Features
 
-- ✅ 24/7 Student Support
-- ✅ Answer Frequently Asked Questions (FAQs)
-- ✅ Admission and Eligibility Information
-- ✅ Examination Schedules and Notifications
-- ✅ Scholarship Guidance
-- ✅ Placement and Career Updates
-- ✅ Course and Department Information
-- ✅ Multilingual Support (Future Enhancement)
-- ✅ Feedback Collection for Continuous Improvement
-- ✅ Responsive Web-Based Interface
+- ▪️ 24/7 Student Support
+- ▪️ Answer Frequently Asked Questions (FAQs)
+- ▪️ Admission and Eligibility Information
+- ▪️ Examination Schedules and Notifications
+- ▪️ Scholarship Guidance
+- ▪️ Placement and Career Updates
+- ▪️ Course and Department Information
+- ▪️ Multilingual Support (Future Enhancement)
+- ▪️ Feedback Collection for Continuous Improvement
+- ▪️ Responsive Web-Based Interface
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend
 - React.js
@@ -55,7 +55,7 @@ The system can understand natural language queries and provide relevant response
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 ai-student-assistance-chatbot/
@@ -71,7 +71,7 @@ ai-student-assistance-chatbot/
 
 ---
 
-## ⚙️ How It Works
+##  How It Works
 
 1. The student enters a question through the chatbot interface.
 2. The NLP engine analyzes the query.
@@ -82,7 +82,7 @@ ai-student-assistance-chatbot/
 
 ---
 
-## 💡 Example Queries
+##  Example Queries
 
 - "What is the last date for admission?"
 - "How can I apply for a scholarship?"
@@ -92,7 +92,7 @@ ai-student-assistance-chatbot/
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - Provide quick and accurate responses to student queries.
 - Improve accessibility to institutional information.
@@ -101,7 +101,7 @@ ai-student-assistance-chatbot/
 
 ---
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 - Voice-Based Interaction
 - WhatsApp and Telegram Integration
@@ -112,19 +112,19 @@ ai-student-assistance-chatbot/
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions, suggestions, and improvements are welcome. Feel free to fork the repository, create a new branch, and submit a pull request.
 
 ---
 
-## 📄 License
+##  License
 
 This project is developed for educational and academic purposes. You may modify and use it in accordance with the chosen license.
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 Developed as a mini project for the **Department of Technical Education** to demonstrate the application of AI in improving student support services.
 
